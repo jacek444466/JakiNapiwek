@@ -75,7 +75,7 @@
                 android:inputType="number"
                 android:layout_gravity="center_horizontal"
                 android:ems="10"
-                android:id="@+id/editText" />
+                android:id="@+id/ileosob" />
         </LinearLayout>
 
         <LinearLayout
@@ -98,7 +98,7 @@
                 android:inputType="numberSigned"
                 android:ems="10"
                 android:layout_gravity="center_horizontal"
-                android:id="@+id/editText2" />
+                android:id="@+id/zaplata" />
         </LinearLayout>
 
     </LinearLayout>
