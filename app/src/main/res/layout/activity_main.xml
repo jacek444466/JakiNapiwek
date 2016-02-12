@@ -67,7 +67,7 @@
                 android:layout_height="40dp"
                 android:background="@drawable/plusjeden"
                 android:layout_gravity="center_horizontal"
-                android:id="@+id/button" />
+                android:id="@+id/plusjednbutton" />
 
             <EditText
                 android:layout_width="wrap_content"
@@ -102,5 +102,15 @@
         </LinearLayout>
 
     </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#339933"
+        android:text="Oblicz"
+        android:id="@+id/oblicz"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center_horizontal" />
 
 </LinearLayout>
